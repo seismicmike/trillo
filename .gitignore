@@ -1,0 +1,6 @@
+# Ignore any node modules directories
+node_modules
+
+# Compiled css
+css/style.css
+css/style.*.css
